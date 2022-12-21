@@ -1,0 +1,3 @@
+[submodule "Plugins/Odin"]
+	path = Plugins/Odin
+	url = git@gitlab.4players.de:odin/integrations/unreal.git
